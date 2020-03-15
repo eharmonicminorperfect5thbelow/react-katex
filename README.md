@@ -28,9 +28,9 @@ Comparison with `react-katex`: https://github.com/talyssonoc/react-katex/issues/
 ## Installation
 
 ```sh
-  $ npm install katex @matejmazur/react-katex
+  $ npm install katex https://github.com/eharmonicminorperfect5thbelow/react-katex.git
   # or
-  $ yarn add katex @matejmazur/react-katex
+  $ yarn add katex https://github.com/eharmonicminorperfect5thbelow/react-katex.git
 ```
 
 ## Usage
